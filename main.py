@@ -1,4 +1,3 @@
-from string.templatelib import convert
 from chunitizer import chunitize
 
 
